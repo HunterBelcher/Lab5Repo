@@ -1,0 +1,8 @@
+Hunter Belcher
+
+step 1:
+	"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" and "sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" need to be loaded.
+
+step 2:
+	Bootstraps grid systems allows you to put up to twelve columns accross a page. you can combine them to make larger columns. It also has four different classes for different screen sizes. It uses rows to create horizontal groups of columns.
+
